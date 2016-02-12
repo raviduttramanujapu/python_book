@@ -1,9 +1,9 @@
 # Summary
 
 * Introduction
-* Installation
-* Get Started
+* [Installation](installation.md)
+* [Getting Started](get_started.md)
 * Native datatypes
-* List
+* [List](list.md)
 * Functions
 * Dictionaries

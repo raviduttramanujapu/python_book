@@ -43,6 +43,22 @@ print (result)
 >> ['e', 'd', 'c', 'b', 'a']
 ```
 
+### Find unique elements
+Given a list of values, identify only the unique elements in the list
+
+```
+data = ['a', 'b', 'c', 'd', 'e', 'a', 'b', 1, 30, 1]
+uniques_data = []
+
+for element in data:
+    if element in uniques_data:
+         pass
+    else:
+        uniques_data.append(element)
+print (uniques_data)
+>> ['a', 'b', 'c', 'd', 'e', 1, 30]
+```
+
 
 
 ## Functions

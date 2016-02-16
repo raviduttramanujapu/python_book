@@ -13,12 +13,37 @@ max_bar_width = 50
 for i in data:
     scaled_num = int(i/max(data)  * max_bar_width) + 1
     print ('=' * scaled_num)
+
 ===========
 =====================
 ===============================
 =========================================
 ===================================================
 ```
+### Reverse a list
+Given a list of values, write a code to reverse the list
+```
+data = ['a', 'b', 'c', 'd', 'e']
+result = []
+n = len(data)
+for index in range(n):
+    index_new = n - index - 1
+    result.append(data[index_new])
+print (result)
+>> ['e', 'd', 'c', 'b', 'a']
+```
+Or we can utilize the negative index in list
+```
+data = ['a', 'b', 'c', 'd', 'e']
+n = len(data)
+result = []
+for index in range(n):
+    result.append(data[(index+1) * -1])
+print (result)
+>> ['e', 'd', 'c', 'b', 'a']
+```
+
+
 
 ## Functions
 ### Compare two list

@@ -22,13 +22,12 @@ for i in data:
 
 ## Functions
 ### Compare two list
-Write a function which takes two list as inputs and compares the list. Return `True` if the list are identical, else return `False`
+Write a function which takes two list as inputs and compares the elements in the lists. Return `True` if the list elements are identical, else return `False`
 ```
 def compare_lists(a, b):
     '''
     Compares two list
     '''
-    
     for (x,y) in zip(a,b):
         if x == y:
             pass

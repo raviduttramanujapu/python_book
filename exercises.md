@@ -40,3 +40,18 @@ b = [1, 4, 5]
 print (compare_lists(a, b))
 >> False
 ```
+
+## Dictionary
+### Reverse a dictionary
+Write a code to reverse a dictionary. Keys should become the values and values should turn in to keys.
+```
+data = {'a': 1, 'b': 2, 'c': 3}
+result = {}
+
+for key, value in data.items():
+    result[value] = key
+print ('Input:', data)
+print ('Output:', result)
+>> Input: {'a': 1, 'b': 2, 'c': 3}
+>> Output: {1: 'a', 2: 'b', 3: 'c'}
+```

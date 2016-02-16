@@ -21,4 +21,4 @@
    * List comprehension
 * [Functions](functions.md)
 * [Dictionaries](dictionaries.md)
-
+* [Exercises](exercises.md)

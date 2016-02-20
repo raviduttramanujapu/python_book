@@ -27,12 +27,13 @@ There are enough free and paid materials in online to learn python. But I see th
 * Slicing
 * Negative indexing & Slicing
 * `range()`
-* for loop using `range()`
-* Display list elements using `range()`
-* Display list elements without using `range()`
-* `enumerate` for index and elements
-    * **Exercise**: Multiply element and index
-* ** Excercise** Summation of a list
+* ** Exercise:** Summation of a list
+    * for loop using `range()`
+    * Display list elements using `range()`
+    * Display list elements without using `range()`
+* **Exercise**: Multiply element and index
+    * `enumerate` for index and elements
+    
 * Append & Extend
 * List comprehension
 
@@ -42,12 +43,10 @@ There are enough free and paid materials in online to learn python. But I see th
 * Passing arguments with name to avoid order
 * return many outputs
 * **Excercise** Create a bar chart
-    * Explain along with excel without scaling. 
-    * If user interested explain scaling
 * Doc Strings
 
 ## Dictionary
-* Syntax
+* Introduction
 * Can handle any data type. List, Nested Dictionary
 * How to access an element. Compare with list
 * How to access all the elements using three methods

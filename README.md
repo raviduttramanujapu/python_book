@@ -95,3 +95,13 @@ There are enough free and paid materials in online to learn python. But I see th
 * os.path.isdir()
 * **Exercise**: Remove all csv files in a folder (including the subfolders)
 * **[Reference](https://people.rit.edu/blbgse/pythonNotes/os.html)**
+
+## File I/O
+* Read a CSV file
+* Read line by line
+* `file.seek(0)`
+* ** Exercise:** Get number of rows & columns in a file
+* ** Exercise:** Calculate total runs, toal matches by player
+* Write results to a file
+
+## Regular expressions

@@ -4,9 +4,11 @@ There are enough free and paid materials in online to learn python. But I see th
 
 
 ##Introduction to Python
-* Anaconda Installation
-    * Advantage
-    * Download Link - python 3.5 64bit
+* Installation
+    * Anaconda Server
+    * Download [Link](https://www.continuum.io/downloads). 
+    * Python 3.5(64bit)
+    * Test the installation
 * Jupyter Notebook
     * Creating notebook
     * Executing commands

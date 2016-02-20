@@ -22,7 +22,7 @@ There are enough free and paid materials in online to learn python. But I see th
     * Boolean
     * String
 
-## Introduction to list and for loops
+## List and For loops
 * Create a list
 * `len(list)`
 * Indexing (show image for example)
@@ -35,17 +35,18 @@ There are enough free and paid materials in online to learn python. But I see th
     * Display list elements without using `range()`
 * **Exercise**: Multiply element and index
     * `enumerate` for index and elements
-    
 * Append & Extend
 * List comprehension
 
-## Introduction to functions
+## Functions
 * Introduction
 * Passing arguments in order
 * Passing arguments with name to avoid order
 * return many outputs
 * **Excercise** Create a bar chart
 * Doc Strings
+* Multiple return statements
+    * Inside the functions have return statements inside if and else
 
 ## Dictionary
 * Introduction
@@ -89,12 +90,12 @@ There are enough free and paid materials in online to learn python. But I see th
 * Accessing variables
 
 ## OS module
-* os.getcwd()
-* os.listdir()
-* os.chdir()
-* 0s.mkdir()
-* os.remove()
-* os.path.isdir()
+* `os.getcwd()`
+* `os.listdir()`
+* `os.chdir()`
+* `0s.mkdir()`
+* `os.remove()`
+* `os.path.isdir()`
 * **Exercise**: Remove all csv files in a folder (including the subfolders)
 * **[Reference](https://people.rit.edu/blbgse/pythonNotes/os.html)**
 

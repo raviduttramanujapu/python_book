@@ -45,6 +45,11 @@ There are enough free and paid materials in online to learn python. But I see th
 * return many outputs
 * **Excercise** Create a bar chart
 * Doc Strings
+* Namespace
+    * Values inside functions are not available outside
+    * Values wont change, if it is modified inside a function
+    * Import is local for function
+    * 
 * Multiple return statements
     * Inside the functions have return statements inside if and else
 
